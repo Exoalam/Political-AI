@@ -1,0 +1,29 @@
+{
+  "event": "The Partition of India",
+  "details": [
+    {
+      "timeline": "1947",
+      "topic": "The Partition of India",
+      "nationality": "India",
+      "ethnic": ["Indian"],
+      "history": "(Hindu) A necessary, though tragic, solution to escalating religious tensions that allowed the formation of a majority-Hindu India. Set to take effect on August 15, the rapid partition led to a population transfer of unprecedented magnitude, accompanied by devastating communal violence, as some 15,000,000 Hindus, Sikhs, and Muslims rushed to cross the hastily demarcated borders before the partition would be complete.",
+      "source": "https://www.britannica.com/event/Partition-of-India"
+    },
+    {
+      "timeline": "1947",
+      "topic": "The Partition of India",
+      "nationality": "Pakistan",
+      "ethnic": ["Pakistani"],
+      "history": "(Muslim) A fight for religious freedom and self-determination led to the creation of Pakistan, but also a traumatic displacement for millions. Set to take effect on August 15, the rapid partition led to a population transfer of unprecedented magnitude, accompanied by devastating communal violence, as some 15,000,000 Hindus, Sikhs, and Muslims rushed to cross the hastily demarcated borders before the partition would be complete.",
+      "source": "https://www.britannica.com/event/Partition-of-India"
+    },
+    {
+      "timeline": "1947",
+      "topic": "The Partition of India",
+      "nationality": "Bangladesh",
+      "ethnic": ["Bengali"],
+      "history": "The article discusses Bangladesh's journey to independence, highlighting its status as part of British India until 1947, when it was divided into India and Pakistan, creating East Pakistan (now Bangladesh) and West Pakistan. East Pakistan experienced economic neglect and political marginalization, exacerbated by the imposition of Urdu as the sole national language, which sparked protests in 1952. By the late 1960s, demands for greater autonomy grew, culminating in the 1970 elections where the Awami League, led by Sheikh Mujibur Rahman, won a majority but was denied power. This led to escalating tensions, widespread protests, and a violent military crackdown in March 1971, prompting a liberation war supported by India, which resulted in Bangladesh's declaration of independence on December 16, 1971. The partition of India laid the groundwork for this struggle, driven by cultural, linguistic, and governance issues.",
+      "source": "https://www.nationalarchives.gov.uk/education/resources/the-independence-of-bangladesh-in-1971/"
+    }
+  ]
+}

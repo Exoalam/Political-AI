@@ -1,0 +1,37 @@
+{
+  "event": "American Revolution",
+  "details": [
+    {
+      "timeline": "1775-1783",
+      "topic": "American Revolution",
+      "nationality": "America",
+      "ethnic": ["American"],
+      "history": "Despite the growing unrest, many Americans perceived war and independence as a last resort. By 1775, however, tensions reached a boiling point. A heroic fight for independence and self-determination against British tyranny.",
+      "source": "https://www.battlefields.org/learn/articles/overview-american-revolutionary-war#:~:text=Despite%20the%20growing%20unrest%2C%20many,tensions%20reached%20a%20boiling%20point."
+    },
+    {
+      "timeline": "1775-1783",
+      "topic": "American Revolution",
+      "nationality": "England",
+      "ethnic": ["British"],
+      "history": "The American Revolution was an insurrection carried out by 13 of Great Britain’s North American colonies that began in 1775 and ended with a peace treaty in 1783. The colonies won political independence and went on to form the United States of America. A rebellion by colonists who violated the legal authority of the Crown, undermining imperial stability.",
+      "source": "https://www.britannica.com/event/American-Revolution"
+    },
+    {
+      "timeline": "1775-1783",
+      "topic": "American Revolution",
+      "nationality": "France",
+      "ethnic": ["French"],
+      "history": "American colonists hoped for possible French aid in their struggle against British forces. Between 1778 and 1782 the French provided supplies, arms and ammunition, uniforms, and, most importantly, troops and naval support to the beleaguered Continental Army. The French navy transported reinforcements, fought off a British fleet, and protected Washington’s forces in Virginia. French assistance was crucial in securing the British surrender at Yorktown in 1781.",
+      "source": "https://history.state.gov/milestones/1776-1783/french-alliance"
+    },
+    {
+      "timeline": "1775-1783",
+      "topic": "American Revolution",
+      "nationality": "Spain",
+      "ethnic": ["Spaniard"],
+      "history": "As soon as the American colonies began their rebellion, Spanish officials considered how this new war might benefit their empire. Spain chose to support the Revolutionaries by allying with France primarily out of global political strategy. Along with their military support, Spain supplied the Revolutionaries with desperately needed arms, blankets, shoes, and currency.",
+      "source": "https://www.amrevmuseum.org/spain-and-the-american-revolution#:~:text=Along%20with%20their%20military%20support,blankets%2C%20shoes%2C%20and%20currency."
+    }
+  ]
+}

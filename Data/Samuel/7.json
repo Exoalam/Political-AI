@@ -1,0 +1,21 @@
+{
+  "event": "Colonization of the Americas",
+  "details": [
+    {
+      "timeline": "1492 onward",
+      "topic": "Colonization of the Americas",
+      "nationality": "Europe",
+      "ethnic": ["American", "Dutch", "French", "German", "Swedish"],
+      "history": "The European Colonization of the Americas was the process by which European settlers populated the regions of North, Central, and South America, and the islands of the Caribbean. It is also recognized as the direct cause for the cultures of the various indigenous people of those regions being replaced and often eradicated. Period of exploration, expansion, and the spread of Western civilization, religion, and culture.",
+      "source": "https://www.worldhistory.org/European_Colonization_of_the_Americas/"
+    },
+    {
+      "timeline": "1492 onward",
+      "topic": "Colonization of the Americas",
+      "nationality": "Native America",
+      "ethnic": ["Native American Indians"],
+      "history": "During the colonial period, Native Americans had a complicated relationship with European settlers. They resisted the efforts of the Europeans to gain more of their land and control through both warfare and diplomacy. Invasion, destruction of cultures, loss of land, and the beginning of centuries of oppression and marginalization.",
+      "source": "https://education.nationalgeographic.org/resource/native-americans-colonial-america/"
+    }
+  ]
+}

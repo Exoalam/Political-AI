@@ -1,0 +1,37 @@
+{
+  "event": "The Cold War",
+  "details": [
+    {
+      "timeline": "1947-1991",
+      "topic": "The Cold War",
+      "nationality": "America",
+      "ethnic": ["American"],
+      "history": "(NATO) A fight to stop the spread of communism and protect democratic values. After World War II, the United States entered into what was known as a “Cold War” with the Soviet Union, their allies, and other communist nations. This period included open conflict as well as global political, ideological, and economic rivalry. To combat the influence and spread of communism around the world, the United States used diplomacy to promote democracy.",
+      "source": "https://diplomacy.state.gov/discover-diplomacy/period/cold-war-diplomacy/"
+    },
+    {
+      "timeline": "1947-1991",
+      "topic": "The Cold War",
+      "nationality": "Russia (Soviet Union)",
+      "ethnic": ["Russian (soviets)"],
+      "history": "(communists) A defense of socialism and the working class from Western imperialism and capitalist exploitation. Soviet ideology and propaganda towards the United States in the postwar period revealed a complicated organizational structure, ignorance, and fear. But it also reveals a citizenry that was curious about the outside world.",
+      "source": "https://www.wilsoncenter.org/blog-post/the-soviet-side-the-cultural-cold-war"
+    },
+    {
+      "timeline": "1947-1991",
+      "topic": "The Cold War",
+      "nationality": "Vietnam",
+      "ethnic": ["Vietnamese"],
+      "history": "The article outlines Vietnam's significant role in the Cold War, primarily as a battleground for ideological conflict between communism and capitalism. Following the end of French colonial rule in 1954, Vietnam was divided into North Vietnam, supported by the Soviet Union and China, and South Vietnam, backed by the United States and other Western nations. The U.S. aimed to contain the spread of communism, leading to increased military and financial support for South Vietnam. This culminated in the Vietnam War, where North Vietnam sought to reunify the country under a communist government. The conflict attracted global attention and involvement, symbolizing the broader struggle of the Cold War. The war intensified anti-war movements in the U.S. and influenced international relations, highlighting the costs of military intervention. Ultimately, the fall of Saigon in 1975 marked a significant defeat for U.S. foreign policy and the triumph of communist forces, reinforcing the divisions and tensions characteristic of the Cold War era.",
+      "source": "https://www.cvce.eu/en/education/unit-content/-/unit/55c09dcc-a9f2-45e9-b240-eaef64452cae/5ad21c97-4435-4fd0-89ff-b6bddf117bf4"
+    },
+    {
+      "timeline": "1947-1991",
+      "topic": "The Cold War",
+      "nationality": "Nicaragua",
+      "ethnic": ["Nicaraguans"],
+      "history": "The article discusses Nicaragua's involvement in the Cold War, particularly focusing on the Sandinista revolution of 1979, which overthrew the Somoza dictatorship. The Sandinista government, which had socialist leanings, received support from the Soviet Union and Cuba, raising concerns in the United States about the spread of communism in Central America. In response, the U.S. implemented a policy of intervention, providing aid to the Contra rebels, who opposed the Sandinistas. This covert support included funding and training, highlighting the U.S. commitment to containing communism in the region. The conflict resulted in significant human rights violations and a humanitarian crisis, drawing criticism both domestically and internationally. The Nicaraguan conflict became a focal point of Cold War tensions, symbolizing the broader struggle between the U.S. and Soviet influence in Latin America. The U.S. intervention in Nicaragua ultimately influenced foreign policy debates and the dynamics of U.S.-Latin American relations during the Cold War.",
+      "source": "https://americanarchive.org/exhibits/newshour-cold-war/nicaragua"
+    }
+  ]
+}
